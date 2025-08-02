@@ -1,6 +1,6 @@
 # Current Weather App
 
-**Current Weather** is a simple weather forecasting app built using **[YOUR TECHNOLOGY]**, powered by the **OpenWeatherMap API**.
+**Current Weather** is a simple weather forecasting app built using **HTML,CSS and JavaScript**, powered by the **OpenWeatherMap API**.
 
 ## Features
 - Display current weather by city name or user location  
